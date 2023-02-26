@@ -42,4 +42,3 @@ body {
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
   }
 ```
-![Annotation 2023-02-10 211330](https://user-images.githubusercontent.com/92864027/218241619-00bcb7f9-e4c6-4235-b422-a902191a55b5.png)
